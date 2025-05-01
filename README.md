@@ -9,21 +9,10 @@ This project analyzes Netflix movie data to uncover key insights, such as movie 
 - Which year has the most filmed movies?
 - Suggest top movies in each genre.
 
-Dataset Columns
-Release_Date: Date the movie was released
+📁 Dataset Columns
+Release_Date, Title, Overview, Popularity, Vote_Count, Vote_Average, Original_Language, Genre, Poster_Url
 
-Title: Title of the movie
-
-Overview: Short description of the movie
-
-Popularity: Popularity score of the movie
-
-Vote_Count: Number of votes the movie received
-
-Vote_Average: Average vote score
-
-Original_Language: Language the movie was originally in
-
-Genre: Genre(s) the movie belongs to
-
-Poster_Url: URL for the movie's poster image
+## 🛠️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/netflix-movie-analysis.git
