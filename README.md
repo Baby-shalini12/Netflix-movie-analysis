@@ -10,6 +10,7 @@ This project analyzes Netflix movie data to uncover key insights, such as movie 
 - Suggest top movies in each genre.
 
 📁 Dataset Columns
+
 Release_Date: Date the movie was released
 
 Title: Title of the movie
