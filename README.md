@@ -11,25 +11,25 @@ This project analyzes Netflix movie data to uncover key insights, such as movie 
 
 ## 📁 Dataset Columns
 
-Release_Date: Date the movie was released
+- Release_Date: Date the movie was released
 
-Title: Title of the movie
+- Title: Title of the movie
 
-Overview: Short description of the movie
+- Overview: Short description of the movie
 
-Popularity: Popularity score of the movie
+- Popularity: Popularity score of the movie
 
-Vote_Count: Number of votes the movie received
+- Vote_Count: Number of votes the movie received
 
-Vote_Average: Average vote score
+- Vote_Average: Average vote score
 
-Original_Language: Language the movie was originally in
+- Original_Language: Language the movie was originally in
 
-Genre: Genre(s) the movie belongs to
+- Genre: Genre(s) the movie belongs to
 
-Poster_Url: URL for the movie's poster image
+- Poster_Url: URL for the movie's poster image
 
 ## 📈 Libraries Used
-Pandas for data manipulation
+- Pandas for data manipulation
 
-Matplotlib & Seaborn for data visualization
+- Matplotlib & Seaborn for data visualization
