@@ -9,7 +9,7 @@ This project analyzes Netflix movie data to uncover key insights, such as movie 
 - Which year has the most filmed movies?
 - Suggest top movies in each genre.
 
-📁 Dataset Columns
+## 📁 Dataset Columns
 
 Release_Date: Date the movie was released
 
@@ -29,7 +29,7 @@ Genre: Genre(s) the movie belongs to
 
 Poster_Url: URL for the movie's poster image
 
-📈 Libraries Used
+## 📈 Libraries Used
 Pandas for data manipulation
 
 Matplotlib & Seaborn for data visualization
